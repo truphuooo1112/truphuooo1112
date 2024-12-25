@@ -1,5 +1,4 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://avatars.githubusercontent.com/u/192780750?s=400&u=eb075c08798f63a30208b480d61151d8c14db413&v=4" />
+<img align="center" width="100" src="https://avatars.githubusercontent.com/u/192780750?s=400&u=eb075c08798f63a30208b480d61151d8c14db413&v=4" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Nguyen Truc Phuong</h2>
