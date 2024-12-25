@@ -1,5 +1,5 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/TienNHM.png" />
+<img align="right" width="64" src="https://avatars.githubusercontent.com/u/192780750?s=400&u=eb075c08798f63a30208b480d61151d8c14db413&v=4" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Nguyen Truc Phuong</h2>
@@ -22,7 +22,15 @@
   <a href="https://github.com/truphuooo1112" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
+  <a href="https://www.youtube.com/@truphuooo" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
   <a href="mailto:truphuooo123@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+</p>
+/>
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
